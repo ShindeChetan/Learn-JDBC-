@@ -17,7 +17,7 @@ public class JdbcDemoClass
 	{
 		String url="jdbc:mysql://localhost:3306/jdbc";
 		String uname="root";
-		String psw="Bhai@2230";
+		String psw="Password";
 		int id=4;
 		String name="Bouncer";
 		String query="insert into pract values(?,?)";
